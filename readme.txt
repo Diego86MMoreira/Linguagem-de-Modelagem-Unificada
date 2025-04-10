@@ -1,9 +1,8 @@
-# Linguagem de
-Modelagem Unificada (UML)
+# Linguagem de Modelagem Unificada (UML)
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Concluído-%2300C851) ✅m
+![Status](https://img.shields.io/badge/Status-Concluído-%2300C851)
 </div>
 
 ## 📚 Descrição
