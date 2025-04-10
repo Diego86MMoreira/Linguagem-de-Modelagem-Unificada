@@ -35,7 +35,7 @@ No curso da [Fundação Bradesco - Escola Virtual](https://lms.ev.org.br/mpls/Cu
 
 ## 📜 Certificado
 
-[Clique aqui para visualizar o certificado de conclusão](./certificado.pdf) 🏅
+[Clique aqui]para visualizar o certificado de conclusão(./certificado.pdf) 🏅
 
 
 
