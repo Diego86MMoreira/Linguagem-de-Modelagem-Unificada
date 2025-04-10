@@ -33,4 +33,11 @@ No curso da [Fundação Bradesco - Escola Virtual](https://lms.ev.org.br/mpls/Cu
 
 ---
 
+## 📜 Certificado
+
+📜 Você pode visualizar o certificado de conclusão [clicando aqui](./Certificado_Linguagem_de_Modelagem.pdf).
+
+
+## 🌐 Redes
+
 🔗 [LinkedIn](https://www.linkedin.com/in/diegommoreira-analista-dados) 
